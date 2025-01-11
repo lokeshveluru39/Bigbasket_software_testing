@@ -27,10 +27,9 @@ This project demonstrates web automation using Selenium WebDriver with Python an
     python src/main.py
 
   
-# Common Issues and Solutions:
-  **1)ChromeDriver Version Mismatch:**
-  <br>
-      The WebDriver Manager automatically handles this, but if using manual installation, ensure ChromeDriver version matches your Chrome browser version.
+# Common Issues and Solutions: <br>
+  **1)ChromeDriver Version Mismatch:** <br>
+      The WebDriver Manager automatically handles this, but if using manual installation, ensure ChromeDriver version matches your Chrome browser version. <br>
   **2)Element Not Found Exceptions:**
   <br>
       Use appropriate waits (explicit or implicit) <br>
