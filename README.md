@@ -35,4 +35,4 @@ This project demonstrates web automation using Selenium WebDriver with Python an
       Check if element is inside an iframe <br><br>
   3)Element Not Clickable:<br>
       Ensure element is visible and not covered by other elements <br>
-      Scroll element into view before clicking <br>
+      Scroll element into view before clicking <br><br>
