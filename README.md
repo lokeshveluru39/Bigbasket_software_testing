@@ -28,13 +28,11 @@ This project demonstrates web automation using Selenium WebDriver with Python an
 
   
 # Common Issues and Solutions: <br>
-  **1)ChromeDriver Version Mismatch:** <br>
-      The WebDriver Manager automatically handles this, but if using manual installation, ensure ChromeDriver version matches your Chrome browser version. <br>
-  **2)Element Not Found Exceptions:**
-  <br>
+  1)ChromeDriver Version Mismatch: The WebDriver Manager automatically handles this, but if using manual installation, ensure ChromeDriver version matches your Chrome browser version. <br><br>
+  2)Element Not Found Exceptions: <br>
       Use appropriate waits (explicit or implicit) <br>
       Verify element selectors <br>
-      Check if element is inside an iframe <br>
-  **3)Element Not Clickable:** <br>
+      Check if element is inside an iframe <br><br>
+  3)Element Not Clickable:<br>
       Ensure element is visible and not covered by other elements <br>
       Scroll element into view before clicking <br>
